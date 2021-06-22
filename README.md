@@ -16,7 +16,7 @@
 [深度集成 Flink: Apache Iceberg 0.11.0 最新功能解读](https://developer.aliyun.com/article/781752?spm=a2c6h.12873639.0.0.2c482c1be7Crwv)
 
 
-## Apache Iceberg 企业实践
+## Apache Iceberg 企业最佳实践
 [Flink集成Iceberg在同程艺龙的实践](https://developer.aliyun.com/article/783365?spm=a2c6h.14164896.0.0.588f27dbZylEV7)
 
 [Flink + Iceberg 在去哪儿的实时数仓实践](https://developer.aliyun.com/article/784412?spm=a2c6h.14164896.0.0.588f27dbZylEV7)
@@ -27,7 +27,7 @@
 
 [Flink集成iceberg在生产环境中的实践](https://blog.csdn.net/zhangjun5965/article/details/111998770)
 
-## Apache Iceberg 源码分析
+## Apache Iceberg 架构与源码解析
 [一条数据在 Apache Iceberg 之旅：写过程分析](https://www.iteblog.com/archives/9888.html)
 
 [Apache Iceberg 小文件合并原理及实践](https://www.iteblog.com/archives/9896.html)
@@ -43,4 +43,8 @@
 )
 
 ## 数据湖
+[为什么腾讯看好开源Apache Iceberg？](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247501546&idx=2&sn=b3cb06221c035f15e11ed53deb3712f2&chksm=fbea7f25cc9df633b1eb9550e0882612058ff4596d75e7f1dc81b2938c32542350761953bf5d&scene=27#wechat_redirect)
 
+[什么是数据湖？为什么要数据湖？如何建湖？如何ETL？](https://mp.weixin.qq.com/s?__biz=MzAxODcyNjEzNQ==&mid=2247533022&idx=3&sn=1802af45526660bf310112e4d44639f8&chksm=9bd3ec46aca46550adfd06a078ac6fd1018c6f4f23d3ec3526df3f36b5beb4a30325766ce65f&scene=27#wechat_redirect)
+
+[数据湖到底是什么](https://xie.infoq.cn/article/7f01991ac2f3b6ef0423be513)
