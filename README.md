@@ -1,7 +1,6 @@
 # iceberg-assembly
-汇总Apache Iceberg相关的最新文章、资料以及Demo等
+汇总Apache Iceberg相关的最新文章、视频以及Demo等
 ![poweredby](https://github.com/Dam1029/iceberg-assembly/blob/main/iceberg-in-these-companys.jpeg)
-
 
 ## Apache Iceberg 官方与社区
 
