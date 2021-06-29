@@ -47,6 +47,9 @@
 [深度集成 Flink: Apache Iceberg 0.11.0 最新解读](https://www.bilibili.com/video/BV1TT4y1N7fP?from=search&seid=569064578284145980
 )
 
+[从表格式到湖仓系统-腾讯在Iceberg上的实践](https://www.slidestalk.com/slidestalk/5Iceberg36057?video)
+
+
 
 ## 数据湖
 [数据库、数据湖、数据仓库、湖仓一体、智能湖仓，分别都是什么鬼？](https://mp.weixin.qq.com/s?__biz=MzA4ODMwMDcxMQ==&mid=2650952048&idx=1&sn=016162c2ee261f295e9bd5c9dae0388e&chksm=8bdabcb8bcad35ae7cd62c180b74de7336496f7e2ce1d28bb37dad351c21ff5654be4ffd0e7d&mpshare=1&scene=1&srcid=0622Hoy20EjTQPfQoiYV7Fz9&sharer_sharetime=1624416233365&sharer_shareid=7dd374dc0760c7a437b73fe19fcf5905&version=3.1.6.90174&platform=mac#rd)
