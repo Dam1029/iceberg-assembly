@@ -42,6 +42,7 @@
 
 [Apache Iceberg源码分析：数据存储格式](https://blog.csdn.net/u012794915/article/details/111642801)
 
+[Apache Iceberg V2 Format 设计资料](https://www.yuque.com/huzijin-og9kx/gywdy7/rlr041)
 
 ## Apache Iceberg 视频
 [深度集成 Flink: Apache Iceberg 0.11.0 最新解读](https://www.bilibili.com/video/BV1TT4y1N7fP?from=search&seid=569064578284145980
