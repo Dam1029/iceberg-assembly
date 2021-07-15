@@ -30,6 +30,8 @@
 
 [Flink集成iceberg在生产环境中的实践](https://blog.csdn.net/zhangjun5965/article/details/111998770)
 
+[Flink + Iceberg + 对象存储，构建数据湖方案](https://developer.aliyun.com/article/785270?spm=a2c6h.13148508.0.0.2cd74f0eA2fwB7)
+
 
 ## Apache Iceberg 架构与源码解析
 [一条数据在 Apache Iceberg 之旅：写过程分析](https://www.iteblog.com/archives/9888.html)
